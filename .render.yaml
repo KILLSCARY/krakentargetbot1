@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: kraken-bot
+    env: python
+    plan: free
+    branch: main
+    buildCommand: ""
+    startCommand: ./start.sh
+    pythonVersion: 3.10.13
+    envVars:
+      - key: API_TOKEN
+        value: ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН
