@@ -9,4 +9,4 @@ services:
     pythonVersion: 3.10.13
     envVars:
       - key: API_TOKEN
-        value: ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН
+        value: 8091412559:AAHgqI_YrIiVrgIQ5jWhmMvtaV_2aSglNrg
